@@ -622,9 +622,7 @@
 
       {% if global_algo_type == 'svm' or global_algo_type == 'logistic' %}
       <p>- <b>C Regularization:</b> <br>
-      Large Value of parameter C -> small margin,<br>
-      Small Value of paramerter C -> Large margin<br>
-      Increase in margin, get a high misclassfication rate on the other hand decrease a margin, get a lower misclassification rate. Lower misclassification on training dataset doesn’t mean lower misclassification on validation/testing data. To get a better a result of testing data, SVM looks for a higher margin.</p>
+        Parameter that controls the trade off between the achieving a low training error and a low testing error that is the ability to generalize your classifier to unseen data</p>
       {%endif%}
 
       {% if global_problem_type == 'regression' %}
