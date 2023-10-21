@@ -1,5 +1,5 @@
 <h1><b>What is Data Dive?<b></h1>
-<p>DataDive is a a data visualization and predictive modeling project. Different resources as such Statiscal approaches, supervised machine learning and python are used to transform and work over the data to get a specified result. The resulting visual representation of data makes it easier to identify and share real-time trends, outliers, and new insights about the information represented in the data.<p><br>
+<p>DataDive is a web-based data visualization and predictive modeling playground project. Different resources such as Statiscal approaches, supervised machine learning and python are used to transform and work over the data to get a specified result. The resulting visual representation of data makes it easier to identify trends, outliers, and new insights about the information represented in the data.<p><br>
 
 <img src="./demo.png" alt="datadive-demo" width="98%" height="5%"><br><br>
 
